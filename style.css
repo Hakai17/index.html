@@ -1,0 +1,11 @@
+body {
+    background: rgb(75, 75, 75);
+}
+
+p {
+    text-align: center;
+}
+
+em strong{
+    color: rgba(255, 0, 0, 0.562);
+}
