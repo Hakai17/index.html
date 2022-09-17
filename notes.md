@@ -1,3 +1,5 @@
+"" = <>
+'' = {}
 "strong" faz com q fique em negrito
 "em" faz com q fique em italico
 "p" cria um paragrafo
@@ -10,3 +12,5 @@
 "body" colocaremos o conteudo q sera visivel
 "style="font-size: XXpx""
 "style="text-align: center" faz com oq o texto fique centrado
+'background' escolho a cor de fundo
+'color' escolho a cor da frase
